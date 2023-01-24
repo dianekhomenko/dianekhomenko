@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Codewars](https://www.codewars.com/users/gkj5g4wh4g/badges/large?theme=light)
+
+ 🔭 I’m currently studiyng JavaScript
